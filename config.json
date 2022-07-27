@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.3",
+  "Version": "1.0.4",
   "ReleaseNotes": "SEJA BEM VINDO",
   "UrlUpdate": "https://raw.githubusercontent.com/Gokugokuuuuu/palaman/main/config.json",
   "Sms": "https://raw.githubusercontent.com/Gokugokuuuuu/palaman/main/UrlSms.txt",
@@ -25,14 +25,24 @@
   ],
   "Servers": [
     {
-      "Name": "PREMIUM",
+      "Name": "SPEEDMONSTER",
       "TYPE": "premium",
-      "FLAG": "ca.png",
+      "FLAG": "br.png",
       "ServerIP": "speedconnet.tech",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
+    },
+    {
+      "Name": "EDSON NET|BR 01,
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "edson.flynetssh.com.br",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "teste006",
+      "PASS": "1234"
     }
   ],
   "Networks": [
